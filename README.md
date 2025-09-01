@@ -12,3 +12,6 @@
 <h3> <b>2. Instagram</b> </h3>
 <p> from this link you can open Instagram</p>
 <a href="http://www.instagram.com" target="_blank" title="by clicking here you can open instagram"> Instagram </a>
+<h3> DOWNLOAD LINK</h3>
+<P> Here is the link to download the codes of this file</P>
+<a href="img pdf" download> Download</a>
