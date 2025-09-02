@@ -14,7 +14,6 @@
 <a href="http://www.instagram.com" target="_blank" title="by clicking here you can open instagram"> Instagram </a>
 <h3> 3.DOWNLOAD LINK</h3>
 <P> Here is the link to download the image of my progress</P>
-
 <br>
 <br>
 <br>
