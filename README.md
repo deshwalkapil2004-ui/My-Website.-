@@ -4,7 +4,7 @@
 </head>
 <body>
   <h1> My first website  </h1>
-  <h2> Hi this is  Kapil Deshwal and i am trying to create a website</h2>
+  <h2> Hi this is <b><u><i>Kapil Deshwal</b></u></i> and i am trying to create a website</h2>
   <p> This is my first website that i am trying to create,  In this website i will provide the link to open google browser and  instagram </p>
 <h3> <b>1.Google </b> </h3>
 <p> here is the link to open google home page  </p>
@@ -12,6 +12,16 @@
 <h3> <b>2. Instagram</b> </h3>
 <p> from this link you can open Instagram</p>
 <a href="http://www.instagram.com" target="_blank" title="by clicking here you can open instagram"> Instagram </a>
-<h3> DOWNLOAD LINK</h3>
-<P> Here is the link to download the codes of this file</P>
-<a href="img pdf" download> Download</a>
+<h3> 3.DOWNLOAD LINK</h3>
+<P> Here is the link to download the image of my progress</P>
+
+<br>
+<br>
+<br>
+<img src="24.jpg" alt="image" width="1080" height="1280">
+<br>
+<a href="cv.pdf"> download</a>
+<br>
+<br>
+</body> 
+</html>
